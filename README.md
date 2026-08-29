@@ -30,7 +30,7 @@
 * Sellers can:
    * Create products in app with price, description, and delivery 
    * Track sales, manage inventory, and transfer funds to bank account
-<!--  
+ 
 ### **🎤 Empowering Creators**
 * 🎶 Musicians: Sell beats, music and digital collectibles directly to fans
 * 🎬 Filmmakers: Turn views into revenue with short film and movie clips
@@ -47,7 +47,7 @@ Tiered subscriptions with enhanced limits, priority delivery, and platform visib
 | Blue     |     $20      |    50 GB      |   5 GB       | 
 | Silver   |     $50      |    100 GB     |   10 GB      | 
 | Black    |     $100     |    Unlimited  |   Unlimited  | 
-
+| Gold     |     $100K    |    Partner    |   Partner    |
 
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
@@ -197,7 +197,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Once the monthly payout cap is reached:
   * All further MYNW rewards freeze 
   * Dynamic Seeder Assignment continues for load balancing
--->
+
 
 ## **Recommendation Algorithm**
 
